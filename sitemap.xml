@@ -7,6 +7,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/about-dining/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about-cooking/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about-ingrediants/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -17,7 +32,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/about/
         </loc>
     </url>
     <url>
@@ -28,6 +43,11 @@
     <url>
         <loc>
             http://localhost:8000/products/fried-udon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tom-yum/
         </loc>
     </url>
     <url>
